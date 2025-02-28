@@ -1,4 +1,4 @@
-\section{description}
+# description
 This study presents a novel model of the Martian crustal magnetic field, derived from magnetic field data acquired by the Mars Global Surveyor (MGS), Mars Atmosphere and Volatile EvolutioN (MAVEN), and the orbiter of Tianwen-1 mission. 
 The model is constructed using the Equivalent Source Dipole (ESD) method, with dipole sources uniformly distributed on a spherical surface according to the Fibonacci Sphere Distribution. 
 The inversion of the magnetic dipole moments involves two key steps. First, the radial components of the magnetic dipole moments are inverted using only the radial magnetic observations. 
