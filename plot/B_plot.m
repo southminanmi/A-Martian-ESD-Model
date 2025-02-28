@@ -336,17 +336,7 @@ B=geoshow(bp, geoidrefvec, 'DisplayType', 'texturemap'); hold on;
 colormap(ax2,mycolormap4)
 caxis([-L1 L1]);
 
-%%
 
-
-
-   
-   
-%%
-      set(gcf,'PaperPositionMode','manual','PaperUnits','centimeters',...
-        'PaperPosition',pos);
-      
-%        print('-dtiff ','-r600',['C:\Users\gao\Desktop\f2_maven_G90.tiff']);
 %      print('-depsc ',['C:\Users\gao\Desktop\f2_maven_G90.eps']);
    
    
