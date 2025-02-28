@@ -9,7 +9,14 @@ The predicted values from our model are compared with on-site magnetic measureme
 The results show qualitative agreement with these observations at the landing sites, supporting the robustness of our model which is derived from orbital magnetic data.
 
 # Usage
+This project uses MATLAB and Python on Windows. Below are the project structure and usage instructions:
+## Project Structure
+inversion folder: Contains the code related to inversion
 
+model folder: Contains our model parameters
 
+plot folder: Contains the code to plot the magnetic field
+
+Data files: Due to their large size, data files are not uploaded to GitHub
 # Lisense
 This code is covered under the MIT License.
