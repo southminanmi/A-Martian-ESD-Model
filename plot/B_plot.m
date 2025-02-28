@@ -337,6 +337,4 @@ colormap(ax2,mycolormap4)
 caxis([-L1 L1]);
 
 
-%      print('-depsc ',['C:\Users\gao\Desktop\f2_maven_G90.eps']);
-   
    
