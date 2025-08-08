@@ -15,7 +15,7 @@ inversion folder: Contains the code related to inversion
 
 model folder: Contains our model parameters
 
-plot folder: Contains the code to plot the magnetic field
+Matlab folder: Contains the code to plot the magnetic field
 
 Data files: Due to their large size, data files are not uploaded to GitHub
 # Lisense
